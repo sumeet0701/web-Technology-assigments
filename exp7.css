@@ -1,0 +1,21 @@
+h2{
+
+font-family: Copperplate, Papyrus, fantasy;
+}
+body{
+
+background-color: blanchedalmond;
+}
+table, th, td
+{
+border: 1px solid black;
+border-collapse: collapse;
+padding: 0.2cm; text- align: center;
+background-color: cyan;
+font-family: Garamond, serif;
+}
+th
+{
+border: 2px solid black;
+background-color: coral;
+}
